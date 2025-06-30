@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Curtis
 
-<!--
-**curtisbraxdale/curtisbraxdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior back end developer with a foundation in **Go**, **Python**, and **SQL** — and I'm currently looking for opportunities to join a team where I can grow, learn, and contribute.
 
-Here are some ideas to get you started:
+I've been diving into backend architecture, and have been gradually expanding into cloud deployments and modern web stacks. Some of the platforms and tools I’ve started working with include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **fly.io**, **Google Cloud Run**, **Vercel**
+- ☁️ **AWS S3 & CloudFront**, **Supabase**
+
+### 🔧 Recent Project
+One of my main projects is **[Taday](https://github.com/curtisbraxdale/taday)** – a web app for sending personalized daily SMS agendas. It’s built with Go on the backend and designed to be fast, simple, and privacy-focused.
+
+---
+
+### 📬 Let's connect
+
+I'm open to junior backend roles (remote or NYC-based) and excited to learn alongside experienced developers.  
+Feel free to check out my projects or [connect on LinkedIn](https://www.linkedin.com/in/curtis-braxdale/)!
+
