@@ -6,9 +6,13 @@ I've been diving into backend architecture, and have been gradually expanding in
 
 - 🚀 **fly.io**, **Google Cloud Run**, **Vercel**
 - ☁️ **AWS S3 & CloudFront**, **Supabase**
+- 🐳 **Docker**, **Testcontainers**, **PostgreSQL**
+- 🛠️ **Zed**, **Postman**, **Stripe**
 
 ### 🔧 Recent Project
 One of my main projects is **[Taday](https://github.com/curtisbraxdale/taday)** – a web app for sending personalized daily SMS agendas. It’s built with Go on the backend and designed to be fast, simple, and privacy-focused.
+
+I also recently built a **[TUI PostgreSQL Backup and Restore Wizard](https://github.com/curtisbraxdale/go-pg-backup)** – a terminal-based tool that guides users through backing up and restoring PostgreSQL databases with a clean, interactive interface. 
 
 ---
 
